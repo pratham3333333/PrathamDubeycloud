@@ -9,8 +9,8 @@ export const profile = {
   initials: "PD",
   location: "Mumbai, Maharashtra, India",
   email: "prathamdubey03@gmail.com",
-  phone: "+91 9579832094",
-  whatsapp: "919579832094", // country code + number, no "+" or spaces
+  phone: "+91 9892108662",
+  whatsapp: "91 9892108662", // country code + number, no "+" or spaces
   // Add your links here. Empty links are hidden automatically.
   linkedin: "",
   github: "",
